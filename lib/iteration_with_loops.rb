@@ -12,6 +12,8 @@ while count < src.length do
     end
     inner_count += 1 
   end
+  smalls << value 
   count += 1 
  end
+ smalls 
 end
